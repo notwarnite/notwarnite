@@ -37,12 +37,3 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 <br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/ritwik-singh-874291210/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ritwik%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:180010028@iitdh.ac.in"><img alt="Email" src="https://img.shields.io/badge/Email-ritwik-blue?style=flat-square&logo=gmail"></a>
-</p>
-
-⭐️ From [notwarnite](https://github.com/notwarnite)
