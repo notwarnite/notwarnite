@@ -1,9 +1,9 @@
-<h2> Hey there! I'm Ritwik</h2>
+<h2> Hey there!</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing web and iOS software applications and hacks.
-- 💼 &nbsp; Working as a Fullstack Software Engineer.
+- 💼 &nbsp; I am a Fullstack Software Engineer.
 - 🌱 &nbsp; Learning more about Web3, LLM, AI, Cloud Architecture, and Systems Design.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
