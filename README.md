@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing web and iOS software applications and hacks.
 - 💼 &nbsp; I am a Fullstack Software Engineer.
-- 🌱 &nbsp; Learning more about Web3, LLM, AI, Cloud Architecture, and Systems Design.
+- 🌱 &nbsp; Learning more about iOS, Web3, LLM.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
